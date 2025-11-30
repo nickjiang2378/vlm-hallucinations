@@ -2,7 +2,7 @@
 Official PyTorch Implementation
 
 [Nick Jiang](https://nickjiang.me)\*, [Anish Kachinthaya](https://anishk.me)\*, [Suzanne Petryk](https://suziepetryk.com/), [Yossi Gandelsman](https://yossigandelsman.github.io/)
-### [Paper](https://arxiv.org/pdf/2410.02762) | [Project Page](https://anishk23733.github.io/vl-interp/)
+### [Paper](https://arxiv.org/abs/2410.02762) | [Project Page](https://anishk23733.github.io/vl-interp/)
 
 ![Teaser](images/teaser.png)
 
